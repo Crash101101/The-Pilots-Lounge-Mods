@@ -14,3 +14,9 @@ Added - aircraft skins
 Added - a4ec
 
 Added - f14b lua
+
+### Version 1.01 Release ###
+
+Added - Superfox A-4E-C
+
+Added - README.txt in folder
