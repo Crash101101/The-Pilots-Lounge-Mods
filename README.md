@@ -1,9 +1,12 @@
 # The-Pilots-Lounge-Mods
 
-### Mods for "The Pilots Lounge" squadron members ###
+## Mods for "The Pilots Lounge" Members ##
 
 
 This github is the repository with updates of the current skins and Mods "TPL" and its respective squadrons/groups are using. 
 
-## Version 1.0 Release ##
-Added the base files for the modpack going further, will add readme for installation insrtuctions for 1.01. 
+### Version 1.0 Release ###
+Added - base files for the modpack going further
+Added - aircraft skins
+Added - a4ec
+Added - f14b lua
