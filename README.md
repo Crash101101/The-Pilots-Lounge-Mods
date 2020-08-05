@@ -56,6 +56,7 @@ Fixed
 *Notes are modpack contents
 
  - VF-1485 Skin for F-14B
+ - VA-196 Skins for F/A-18C
  - F-14B Loadout lua
  
 #### WIP ####
